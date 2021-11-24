@@ -1,7 +1,7 @@
 ## Olá! Me chamo Jucélio Brandão
- <div style="display: flex; justify-content: space-around;">
+ <div>
   <a href="https://github.com/juujb">
-  <img width="400px" margin-right="50px" height="180em" src="https://github-readme-stats.vercel.app/api?username=juujb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=juujb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juujb&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
 <div> 
   <a href="https://instagram.com/jucep.brandao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: juceneon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/147549" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/juceliobrandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/juujb/juujb/blob/output/github-contribution-grid-snake.svg)
  
