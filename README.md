@@ -1,5 +1,5 @@
 ## Olá! Me chamo Jucélio Brandão
- <div style="display:flex; justify-content:space-around">
+ <div>
   <a href="https://github.com/juujb">
   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=juujb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juujb&layout=compact&langs_count=16&theme=dracula"/>
