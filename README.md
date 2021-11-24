@@ -9,7 +9,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="300px" alt="Polar gif" src="https://media.tenor.com/images/83f680ca2640664ba0cddad66866ed6e/tenor.gif">
+  <img alt="Polar gif" src="https://media.tenor.com/images/83f680ca2640664ba0cddad66866ed6e/tenor.gif">
 </div>
   
   ##
