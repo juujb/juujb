@@ -1,4 +1,4 @@
-## Olá! Me chamo Jucélio Brandão
+## Hello! My name is Jucélio
  <div>
   <a href="https://github.com/juujb">
    <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=juujb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
