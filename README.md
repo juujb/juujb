@@ -5,7 +5,7 @@
 
 ##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14em"/> Web Development Student at Trybe
 ##### :man_technologist: BC&T At UFABC
-##### :seedling: STEM Professional
+##### :seedling: Daily Meditation
 ##### :satellite: Tec and Science Enthusiast
 ##### :v: Pronouns:  He / him / his
 
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/jwt-1c1c1c?style=for-the-badge&logo=jsonwebtokens&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff&logoWidth=20"/>
+   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=fff&logoWidth=20"/>
@@ -50,7 +51,6 @@
   <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/stylelint-1c1c1c?style=for-the-badge&logo=stylelint&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&logoWidth=20"/>
 </div>
 </br>
 
