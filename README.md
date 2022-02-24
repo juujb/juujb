@@ -1,6 +1,6 @@
 ### Hello, I'm Jucélio :bear:
 ```
-// Studying TypeScript, reading 'Duna'
+// Studying TypeScript and reading 'Duna Vol.2'
 ```
 
 ##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14em"/> Web Development Student at Trybe
@@ -41,7 +41,8 @@
   <img src="https://img.shields.io/badge/jwt-1c1c1c?style=for-the-badge&logo=jsonwebtokens&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff&logoWidth=20"/>
-   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/pandas-purple?style=for-the-badge&logo=pandas&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=fff&logoWidth=20"/>
@@ -60,9 +61,9 @@
 
 </br>
 <div style="display: inline_block">
+  <img src="https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=fff&logoWidth=20"/>
 </div>
 </br>
 
