@@ -63,7 +63,7 @@
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux&logoColor=fff&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/Pop!_OS-orangestyle=for-the-badge&logo=Pop!_OS&logoColor=fff&logoWidth=20"/>  
+  <img src="https://img.shields.io/badge/Pop!_OS-orange?style=for-the-badge&logo=Pop!_OS&logoColor=fff&logoWidth=20"/>  
   <img src="https://img.shields.io/badge/code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff&logoWidth=20"/>
 </div>
 </br>
