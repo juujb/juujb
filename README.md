@@ -17,6 +17,7 @@
 <div style="display: inline_block">
 <a href="mailto:juceneon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=gmail&logoColor=fff&logoWidth=20"/></a>
 <a href="https://www.linkedin.com/in/juceliobrandao/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&logoWidth=20"/></a>
+<a href="https://stackoverflow.com/users/16226053/" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-0A66C2?style=for-the-badge&logo=stackoverflow&logoColor=fff&logoWidth=20"/></a>  
 </div>
 </br>
 
