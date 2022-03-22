@@ -1,6 +1,6 @@
 ### Hello, I'm Jucélio :bear:
 ```
-// Studying TypeScript and reading 'Duna Vol.2'
+// Studying OOP and reading 'Duna Vol.2'
 ```
 
 ##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14em"/> Web Development Student at Trybe
