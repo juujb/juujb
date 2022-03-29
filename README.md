@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/jwt-1c1c1c?style=for-the-badge&logo=jsonwebtokens&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/mongodb-3178C6?style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/pandas-purple?style=for-the-badge&logo=pandas&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&logoWidth=20"/>
