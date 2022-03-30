@@ -4,8 +4,6 @@
 ```
 Hi, I'm Jucélio, a Back-End Developer and I have 19 years old! I love Sci-fi and found in development a way to make the World more 'Sci-fistic'. I'm studying JavaScript since highschool and want to create high social impact tech solutions, with conscience, quality and ethics. 
 
-### ABOUT ME
-
 ##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14em"/> Web Development Student at Trybe
 ##### :man_technologist: BC&T At UFABC
 ##### :seedling: Daily Meditation & Exploring Gardening
