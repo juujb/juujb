@@ -1,4 +1,4 @@
-### Hello, I'm Jucélio :bear:
+### ABOUT ME
 ```
 // Studying MongoDB and reading 'Duna Vol.2'
 ```
