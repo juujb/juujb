@@ -2,9 +2,8 @@
 ```
 // Studying MongoDB and reading 'Duna Vol.2'
 ```
-Hi, I'm Jucélio, a Back-End Developer and I have 19 years old! I love Sci-fi and found in development a way to make the World more 'Sci-fistic'. I'm studying JavaScript since highschool and want to create high social impact tech solutions, with conscience, quality and ethics. 
+Hi, I'm a Back-End Developer and I have 19 years old! I love Sci-fi and found in development a way to make the World more 'Sci-fistic'. I'm studying JavaScript since highschool and want to create high social impact tech solutions, with conscience, quality and ethics. 
 
-##### <img src="https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="14em"/> Web Development Student at Trybe
 ##### :man_technologist: BC&T At UFABC
 ##### :seedling: Daily Meditation & Exploring Gardening
 ##### :satellite: Tec and Science Enthusiast
@@ -55,19 +54,6 @@ Hi, I'm Jucélio, a Back-End Developer and I have 19 years old! I love Sci-fi an
   <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/stylelint-1c1c1c?style=for-the-badge&logo=stylelint&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20"/>
-</div>
-</br>
-
-#
-
-### WORKBENCH
-
-</br>
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=fff&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux&logoColor=fff&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/Pop!_OS-orange?style=for-the-badge&logo=Pop!_OS&logoColor=fff&logoWidth=20"/>  
-  <img src="https://img.shields.io/badge/code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff&logoWidth=20"/>
 </div>
 </br>
 
