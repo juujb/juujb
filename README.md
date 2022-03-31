@@ -7,7 +7,6 @@ Hi, I'm a Back-End Developer and I have 19 years old! I love Sci-fi and found in
 ##### :man_technologist: BC&T At UFABC
 ##### :seedling: Daily Meditation & Exploring Gardening
 ##### :satellite: Tec and Science Enthusiast
-##### :v: Pronouns:  He / him / his
 
 #
 
