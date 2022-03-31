@@ -66,6 +66,4 @@ Hi, I'm a Back-End Developer and I have 19 years old! I love Sci-fi and found in
    <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=juujb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juujb&layout=compact&langs_count=16&theme=dracula"/>
   </a>
-
-![Snake animation](https://github.com/juujb/juujb/blob/output/github-contribution-grid-snake.svg)
  
