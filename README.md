@@ -1,8 +1,8 @@
 ### ABOUT ME
 ```
-// Studying MongoDB and reading 'Duna Vol.2'
+// Studying Redis and Kafka'
 ```
-Hi, I'm a Back-End Developer and I have 19 years old! I love Sci-fi and found in development a way to make the World more 'Sci-fistic'. I'm studying JavaScript since highschool and want to create high social impact tech solutions, with conscience, quality and ethics. 
+Hi, I'm a Fullstack Developer and I have 19 years old! I love Sci-fi and found in development a way to make the World more 'Sci-fistic'. I'm studying JavaScript since highschool and want to create high social impact tech solutions, with conscience, quality and ethics. 
 
 ##### :man_technologist: BC&T At UFABC
 ##### :seedling: Daily Meditation & Exploring Gardening
