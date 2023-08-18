@@ -47,7 +47,7 @@ Hi, I'm a Fullstack Developer and I have 20 years old! I love Sci-fi and found i
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/Csharp-F7DF1E?style=for-the-badge&logo=c#&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/.net-darkblue?style=for-the-badge&logo=.net&logoColor=fff&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azure&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/azure_devops-blue?style=for-the-badge&logo=azure-devops&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=fff&logoWidth=20"/>
