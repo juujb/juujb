@@ -2,11 +2,11 @@
 ```
 // Studying .NET & C#
 ```
-Hi, I'm a Fullstack Developer and I have 19 years old! I love Sci-fi and found in development a way to make the World more 'Sci-fistic'. I'm studying JavaScript since highschool and want to create high social impact tech solutions, with conscience, quality and ethics. 
+Hi, I'm a Fullstack Developer and I have 20 years old! I love Sci-fi and found in development a way to make the World more 'Sci-fistic'. I'm studying JavaScript since highschool and want to create high social impact tech solutions, with conscience, quality and ethics. 
 
-##### :man_technologist: BC&T At UFABC
-####  💼 Intern at AP INTERACTIVE
-##### :seedling: Daily Meditation & Exploring Gardening
+##### :man_technologist: BC&T at UFABC ➡️ Analysis and Systems Development at FIAP
+####  💼 Developer at AP INTERACTIVE
+##### :seedling: Reading Dune & Exploring Gardening
 ##### :satellite: Tec and Science Enthusiast
 
 #
@@ -15,7 +15,7 @@ Hi, I'm a Fullstack Developer and I have 19 years old! I love Sci-fi and found i
 
 </br>
 <div style="display: inline_block">
-<a href="mailto:juceneon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=gmail&logoColor=fff&logoWidth=20"/></a>
+<a href="mailto:juceliob.goncalves@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=gmail&logoColor=fff&logoWidth=20"/></a>
 <a href="https://www.linkedin.com/in/juceliobrandao/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&logoWidth=20"/></a>
 <a href="https://stackoverflow.com/users/16226053/" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=fff&logoWidth=20"/></a>  
 </div>
@@ -47,6 +47,7 @@ Hi, I'm a Fullstack Developer and I have 19 years old! I love Sci-fi and found i
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/Csharp-F7DF1E?style=for-the-badge&logo=c#&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/.net-darkblue?style=for-the-badge&logo=.net&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azure&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=fff&logoWidth=20"/>
