@@ -5,7 +5,7 @@
 Hi, I'm a Fullstack Developer and I have 20 years old! I love Sci-fi and found in development a way to make the World more 'Sci-fistic'. I'm studying JavaScript since highschool and want to create high social impact tech solutions, with conscience, quality and ethics. 
 
 ##### :man_technologist: BC&T at UFABC ➡️ Analysis and Systems Development at FIAP
-####  💼 Developer at AP INTERACTIVE
+####  💼 Developer at AP DIGITAL SERVICES
 ##### :seedling: Reading Dune & Exploring Gardening
 ##### :satellite: Tec and Science Enthusiast
 
